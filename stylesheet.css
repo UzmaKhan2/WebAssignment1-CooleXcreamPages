@@ -1,0 +1,103 @@
+
+.carouselimg{
+width:100%;
+height:30px;
+}
+.clg{
+    background-color: lightgrey;
+   
+ border: solid 1px black;
+
+}
+
+
+.bg-color{
+    background-color: #20B2AA; }
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+  }
+
+.carousel-inner h1, p{
+font-family: jameel noori nastaleeq;
+}
+
+ul{
+padding-left:4;
+}
+.slice-content__heading {
+    color: #000000;
+    margin: 0 0 1rem 0;
+    padding: 0px;
+    font-family: sans-serif;
+ 
+}
+
+h1{
+
+font-family:Calibri;
+padding:10px;
+
+	 letter-spacing: 3px;
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+p{
+word-spacing: 6px;
+padding:2px;
+font-family: sans-serif;
+text-align: center;
+}
+.img,.img_index {
+    padding:20px;
+
+}
+
+.h1{
+marging:0px;
+font-family:Calibri;
+padding:0px;
+
+	 letter-spacing: 3px;
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+.p2{
+
+word-spacing: 6px;
+padding:4px;
+font-family: sans-serif;
+text-align: center;
+}
+.img {
+    padding:20px;
+    float:left;
+    max-width: 100%;
+    display: block;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 100ms;
+    height: auto;
+}
+li a:hover
+{
+background-color:gray;
+}
+
+.color
+{
+color:black;
+}
+.Roasteryimg{
+   max-width: 100%; 
+    height: auto;
+
+}
